@@ -22,7 +22,7 @@ Welcome to our straightforward **GODOT 4.0 Script Library**. This collection off
 
 ## Getting Started:
 
-1. Clone the repository: `git clone https://github.com/yourusername/GODOT-4.0-SimpleScripts.git`
+1. Clone the repository: `git clone https://github.com/DevFalconsz/GODOT-4.0-Collection.git`
 2. Explore the `docs` folder for straightforward documentation on each script.
 3. Integrate scripts into your GODOT 4.0 project and customize as needed.
 
